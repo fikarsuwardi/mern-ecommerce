@@ -16,4 +16,4 @@ createRoot(document.getElementById("root")).render(
 /// ayam goreng 2
 /// kerbauuuu
 
-// saya kuda 1
+// saya kuda 2
